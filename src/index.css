@@ -1,0 +1,16 @@
+html {
+  background-color: #3f0d12;
+  height: 100%;
+  background-image: linear-gradient(315deg, #3f0d12 0%, #a71d31 74%);
+}
+body {
+  margin: 0;
+  font-family: Montserrat;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
